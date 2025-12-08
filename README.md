@@ -1,3 +1,6 @@
+# My maintaine version
+- https://gitee.com/EEPPEE_admin/lowfi-collections/tree/master/relowfi
+
 # lowfi
 
 lowfi is a tiny rust app that serves a single purpose: play lofi.
