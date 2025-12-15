@@ -1,4 +1,6 @@
-# My maintaine version
+# My own version with help info ui
+1. a good tui app should show info ui that tells user something.
+2. crawl chillhop music url to text file, I finally got the internal logic of lowfi.
 - https://gitee.com/EEPPEE_admin/lowfi-collections/tree/master/relowfi
 
 # lowfi
